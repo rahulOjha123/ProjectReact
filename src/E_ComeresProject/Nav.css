@@ -1,0 +1,157 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f7f7f7;
+}
+
+.form-control {
+    width: 40vw;
+    margin-right: 10rem;
+}
+.navbar{
+    height: 3rem;
+    justify-content: center;
+}
+
+/* =================== first imagesssss=========================== */
+.more_imgs {
+    width: 99%;
+    height: 28vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding-left: 1.4rem;
+    /* border-bottom: 2px solid rgb(210, 24, 24); */
+}
+.logo{
+    width: 10rem;
+    height: 4rem;
+    color: rgb(7, 7, 10);
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.imgss {
+    width: 8vw;
+    height: 25vh;
+
+    justify-content: center;
+
+    align-items: center;
+    background-color: white;
+    margin-top: 1rem;
+}
+.navlink{
+    text-decoration: none;
+    color: black;
+}
+
+/* slider page on home pagesssss=========scond imgesssss===================== */
+
+.slider {
+    width: 96vw;
+    height: 51vh;
+    margin-left: 1rem;
+    margin-right: 2rem;
+    margin-top: 2rem;
+
+
+
+}
+
+img {
+    width: 1190px;
+    height: 300px;
+
+    padding-right: 30px;
+    background-repeat: none;
+    background-size: 100%;
+    background-position: 100% 100%;
+
+}
+
+
+/* ============================================================== */
+
+.third_card{
+    width: 100%;
+    height: auto;
+    margin-top: 2rem;
+   
+}
+
+.card_picture{
+    display: inline-flex;
+        margin-left: 1rem;
+        width: 97vw;
+        height: auto;
+        
+}
+
+.card{
+    width: 20rem;
+    border: none;
+    display:inline-block;
+    
+}
+.card-img-top{
+    width: 20rem;
+    height: 15rem;
+}
+.card-text{
+    color: green;
+    text-align: center;
+    
+}
+h5{
+    text-align: center;
+}
+
+/* footer   page ========================================================================*/
+.footer{
+    width: 99.7%;
+    height: 50%;
+    background-color: black;
+    margin-top: 1rem;
+
+}
+.infooter{
+    width: 99%;
+    height: 50%;
+    /* margin-left: 2rem; */
+    display: flex;
+    background-color: 	#120202;
+   
+}
+.row1{
+    width: 20vw;
+    /* border: 2px solid green; */
+    padding-top: 2rem;
+    color: white;
+   
+}
+
+li{
+   list-style: none; 
+   font-size: 0.8rem;
+   padding-bottom: 0.6rem;
+
+  
+}
+a{
+    text-decoration: none; 
+}
+.span{
+    font-size:1rem;
+    padding-left: 0;
+    /* text-align: center; */
+    margin-left: 2rem;
+    color: gray;
+}
+p{
+    font-size: 0.8rem;
+}
